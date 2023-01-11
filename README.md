@@ -189,10 +189,6 @@ significant deviations.
 Inspecting DNS traffic between the client’s devices and your local recursive resolver could be revealing a wealth of information for forensic analysis. DNS queries can reveal bot botnets and malware is connecting to the C&C server, so this is why DNS monitoring is very essential.
 
 
-figura**********************88
-
-
-
 # 17. What are encoding, hashing and encryption?
 
 **Encoding:** Converts the data in the desired format required for exchange between different systems.
